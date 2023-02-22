@@ -1,1 +1,2 @@
 # Basic-Chelsea-Fan-Website
+Included is my attempt at creating a Chelsea fan website. It includes the header section with the club name, a navigation menu with links to Home, News, Fixtures, Gallery, and About Us, and the main content section with the main heading "Welcome to the Chelsea Fan Club" and sample text about the club, along with some CSS styles. The main content section has three paragraphs about the latest news and updates of the club, the gallery, and the club's mission.
