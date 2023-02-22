@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chelsea Fan Club</title>
+    <style>
+      /* CSS Styles */
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+      }
+      /* Header styles */
+      header {
+        background-color: #034694;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+      /* Navigation styles */
+      nav {
+        background-color: #cfcfcf;
+        padding: 10px;
+      }
+      nav a {
+        color: #000;
+        text-decoration: none;
+        padding: 10px;
+      }
+      nav a:hover {
+        background-color: #fff;
+        color: #034694;
+      }
+      /* Main content styles */
+      main {
+        padding: 20px;
+      }
+      h1 {
+        font-size: 36px;
+      }
+      p {
+        font-size: 18px;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header section with club name -->
+    <header>
+      <h1>Chelsea Fan Club</h1>
+    </header>
+    <!-- Navigation menu -->
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">News</a>
+      <a href="#">Fixtures</a>
+      <a href="#">Gallery</a>
+      <a href="#">About Us</a>
+    </nav>
+    <!-- Main content section -->
+    <main>
+      <!-- Main heading -->
+      <h2>Welcome to the Chelsea Fan Club</h2>
+      <!-- Sample text about the club -->
+      <p>As a fan of Chelsea Football Club, you have come to the right place. We are dedicated to providing the latest news, fixtures, and updates on Chelsea FC. From match highlights to player profiles, we have it all.</p>
+      <p>Be sure to check out our gallery for a selection of photos and videos of our beloved team in action. We also have an About Us page where you can learn more about the Chelsea Fan Club and our mission to support the team.</p>
+      <p>Thanks for visiting, and remember: <strong>Blue is the Colour!</strong></p>
+    </main>
+  </body>
+</html>
